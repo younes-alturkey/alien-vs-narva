@@ -22,7 +22,7 @@
 
 - HTML5 Canvas
 - Vanilla Javascript
-- Save and open files (.drw)
+- Mobs and Boss Levels
 - Challenging
 - Zero Dependencies
 
