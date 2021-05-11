@@ -55,5 +55,5 @@ Note: the game is in alpha version as of now
 
 ## Developer
 
-> Original [@frdvorak](https://github.com/frdvorak) &nbsp; Developer [@younes-alturkey](https://github.com/younes-alturkey) &nbsp;&middot;&nbsp;
+> Developer [@younes-alturkey](https://github.com/younes-alturkey) &nbsp;&middot;&nbsp;
 > Website [younesalturkey.sa](https://younesalturkey.sa) &nbsp;&nbsp;
