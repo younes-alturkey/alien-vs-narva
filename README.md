@@ -6,7 +6,7 @@
   The Alien Vs Narva City
   <br>
 </h1>
-<h4 align="center">A basic graphics/painting utility.</h4>
+<h4 align="center">2D Game with Auto Attackers and Defenders</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
