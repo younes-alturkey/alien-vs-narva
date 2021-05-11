@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/YounesAlturkey/alien-vs-narva/blob/main/assets/demo.gif" alt="demo"/>
+  <img src="https://github.com/younes-alturkey/alien-vs-narva/blob/main/assets/demo.gif" alt="demo"/>
 </p>
 
 ## Key Features
@@ -34,7 +34,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/YounesAlturkey/alien-vs-narva.git
+$ git clone https://github.com/younes-alturkey/alien-vs-narva.git
 
 # Go into the repository
 $ cd alien-vs-narva
@@ -51,7 +51,7 @@ Note: the game is in alpha version as of now
 
 ## License
 
-[MIT](https://github.com/YounesAlturkey/alien-vs-narva/blob/main/assets/LICENSE.md)
+[MIT](https://github.com/younes-alturkey/alien-vs-narva/blob/main/assets/LICENSE.md)
 
 ## Developer
 
