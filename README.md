@@ -3,7 +3,7 @@
   <a href="https://safcsp.org.sa/en.html" target="_blank">
   <img src="https://raw.githubusercontent.com/tuwaiq-dotnet/json-parser-team-yaai/main/logo.png" alt="Tuwaiq Logo" width="80"></img></a>
   <br>
-  Paint
+  The Alien Vs Narva City
   <br>
 </h1>
 <h4 align="center">A basic graphics/painting utility.</h4>
@@ -15,43 +15,43 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YounesAlturkey/paint/main/demo.gif" alt="demo"/>
+  <img src="https://github.com/YounesAlturkey/alien-vs-narva/blob/main/assets/demo.gif" alt="demo"/>
 </p>
 
 ## Key Features
 
-- Draw various shapes with the ability to customize and edit.
-  - **Simple**, **Modern**, **Easy-To-Use** user interface
-  - A script panel that binds to the drawing board
-- Relocate and resize any shape
+- HTML5 Canvas
+- Vanilla Javascript
 - Save and open files (.drw)
-- Your last selects will be saved as well!!
-- Pure [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- Challenging
 - Zero Dependencies
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and Internet Browser like Chrome installed.
+To clone and run this application, you'll need [Git](https://git-scm.com) and an Internet Browser like Google Chrome installed.
 
 From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/tuwaiq-dotnet/paint.git
+$ git clone https://github.com/YounesAlturkey/alien-vs-narva.git
 
 # Go into the repository
-$ cd paint
+$ cd alien-vs-narva
 
 # Run the cli
-$ dotnet run
+$ double click on index.html
+
+# Use your brain
+$ you need a strategy to win
 
 ```
 
-Note: the program is in alpha version as of now. Use with caution.
+Note: the game is in alpha version as of now
 
 ## License
 
-[MIT](https://github.com/tuwaiq-dotnet/paint-drw/blob/main/LICENSE.md)
+[MIT](https://github.com/YounesAlturkey/alien-vs-narva/blob/main/assets/LICENSE.md)
 
 ## Developer
 
