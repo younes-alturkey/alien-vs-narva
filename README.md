@@ -39,7 +39,7 @@ $ git clone https://github.com/YounesAlturkey/alien-vs-narva.git
 # Go into the repository
 $ cd alien-vs-narva
 
-# Run the cli
+# Launch the game in a browser
 $ double click on index.html
 
 # Use your brain
