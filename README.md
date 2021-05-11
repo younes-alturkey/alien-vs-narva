@@ -53,11 +53,7 @@ Note: the game is in alpha version as of now
 
 [MIT](https://github.com/YounesAlturkey/alien-vs-narva/blob/main/assets/LICENSE.md)
 
-## Original Design
-
-> GitHub [@frdvorak](https://github.com/frdvorak) &nbsp;
-
 ## Developer
 
-> GitHub [@younes-alturkey](https://github.com/younes-alturkey) &nbsp;&middot;&nbsp;
+> Original [@frdvorak](https://github.com/frdvorak) &nbsp; GitHub [@younes-alturkey](https://github.com/younes-alturkey) &nbsp;&middot;&nbsp;
 > Website [younesalturkey.sa](https://younesalturkey.sa) &nbsp;&nbsp;
